@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Zip files (如果你不想上传 shapefiles 的 zip 可以保留)
+*.zip
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+
+

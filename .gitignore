@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+
