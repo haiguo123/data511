@@ -20,14 +20,7 @@ This tool supports metro-level comparison, ZIP-level detail analysis, affordabil
 
 ## 🚀 Live Demo
 
-Deploy on Streamlit Cloud:
-
-1. Visit: https://share.streamlit.io  
-2. Connect your GitHub repo  
-3. Set:
-   - Repository: haiguo123/data511  
-   - Branch: main  
-   - Main file: app.py  
+Visit: https://data511design12.streamlit.app/
 
 ---
 
